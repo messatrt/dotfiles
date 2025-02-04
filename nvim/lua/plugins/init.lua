@@ -12,8 +12,7 @@ return {
       require "configs.lspconfig"
     end,
   },
-
-  -- {
+ -- {
   -- 	"nvim-treesitter/nvim-treesitter",
   -- 	opts = {
   -- 		ensure_installed = {
